@@ -1,1 +1,1 @@
-# Climate-change-visualizer-
+# Climate Change Visualizer
